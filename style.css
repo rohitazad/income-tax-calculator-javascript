@@ -34,4 +34,11 @@
     border-radius: 5px;
     cursor: pointer;
   }
-  
+.myWrapTable{
+  text-align: left;
+  border-collapse: collapse;
+}  
+.myWrapTable td{
+  border: solid 1px gray;
+  padding:5px 15px;
+}
